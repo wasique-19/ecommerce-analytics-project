@@ -1,0 +1,22 @@
+EDA SUMMARY
+===========
+Total Revenue: 3,761,649.14
+Total Orders: 4,925
+Unique Customers: 1,589
+Average Order Value: 763.79
+
+Top Category by Revenue:
+category
+Fashion           775671.41
+Beauty            768715.13
+Home & Kitchen    766860.89
+Name: revenue, dtype: float64
+
+Top 5 Products by Revenue:
+product
+Face Wash        231326.92
+Mixer Grinder    220397.50
+Cookware Set     207353.55
+Novel            201903.26
+Shampoo          195879.73
+Name: revenue, dtype: float64
